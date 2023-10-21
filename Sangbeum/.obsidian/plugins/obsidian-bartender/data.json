@@ -1,0 +1,22 @@
+{
+  "statusBarOrder": [],
+  "ribbonBarOrder": [],
+  "fileExplorerOrder": {
+    "/": [
+      "Project",
+      "무제 파일.md",
+      "Area",
+      "Research",
+      "Attached File",
+      "Archive"
+    ],
+    "Project/IT/AWS SAA": [
+      "Project/IT/AWS SAA/AWS SAA.md",
+      "Project/IT/AWS SAA/AWS SAA Note Section.03 Start AWS.md"
+    ]
+  },
+  "actionBarOrder": {},
+  "autoHide": false,
+  "autoHideDelay": 2000,
+  "dragDelay": 200
+}

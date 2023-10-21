@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "d892aa81eb263575",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fe916b0f5dc53ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7e28ea56e41ec67",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f9a0dbe11004ae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/IT/AWS SAA/AWS SAA Note Section.03 Start AWS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7551700da6d4e215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-10-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f4182a7ecbc01c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "797d696b279fb2df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e7bf0e3a03f9c7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom"
+              }
+            }
+          },
+          {
+            "id": "c835232baeea668b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d0ff317e6219f8b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70dcb1c8b13ba032",
+    "type": "split",
+    "children": [
+      {
+        "id": "425af607d54c86b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e0327fef938a191",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-10-21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71fa7b8b33d9b669",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-10-21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91bf3b9676143c03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ca346d0e203d912c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-10-21.md"
+              }
+            }
+          },
+          {
+            "id": "c9547c022f7df9e4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "audio-recorder:녹음 시작/중지": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "7551700da6d4e215",
+  "lastOpenFiles": [
+    "무제 파일.canvas",
+    "2023-10-21.md",
+    "Project/IT/Data/Data Analytics/Visualization/Tableau",
+    "Project/IT/Data/Data Analytics/Visualization",
+    "Project/IT/Data/Data Science",
+    "Project/IT/Data/Data Engineering",
+    "Project/IT/Data/Data Analytics",
+    "Project/IT/Data",
+    "무제 파일.md",
+    "Project/IT/Git&Github",
+    "Project/IT/Software Design",
+    "Project/IT/Python",
+    "Project/IT/AWS SAA/AWS SAA Note Section.03 Start AWS.md",
+    "Project/IT/AWS SAA/AWS SAA.md",
+    "Research/IT 용어/애플리케이션.md",
+    "Project/IT",
+    "Research/Camping/캠핑 장비.md",
+    "Project/유튜브 컨텐츠 제작/9월 컨텐츠.md",
+    "인삿말.md",
+    "링크 연습.md",
+    "덧셈.md",
+    "테스트용.md"
+  ]
+}
